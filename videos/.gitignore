@@ -9,6 +9,7 @@
 /coverage
 
 # production
+key.js
 /build
 
 # misc
